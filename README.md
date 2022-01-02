@@ -1,13 +1,7 @@
 ## Olá, eu sou o Lucas Machado 💻
-Um Apaixonado por tecnologia, programação e por aprender.
+Desenvolvedor de software apaixonado por tecnologia, programação e por aprender.
 
-Atualmente trabalho com Engenharia de dados 
-
-<div align="left">
-  <a href="https://github.com/lfjmachado">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=lfjmachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfjmachado&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+Atualmente trabalho com Engenharia de dados 🎲
   
   ## Tecnologias que tenho experiência
 <div style="display: inline_block" align="center"><br>
@@ -23,9 +17,16 @@ Atualmente trabalho com Engenharia de dados
   <img align="center" alt="AWS" height="30" width="40" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor">
 </div>
   
-                                                                                                                                        
   ##
- 
+                                                                                                                                                 
+<div align="left">
+  <a href="https://github.com/lfjmachado">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=lfjmachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfjmachado&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+                                                                                                                                          
+  ##
+                                                                                                                                                
 <div> 
  
   ![Snake animation](https://github.com/lfjmachado/lfjmachado/blob/output/github-contribution-grid-snake.svg)
