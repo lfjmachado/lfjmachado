@@ -6,7 +6,7 @@ I currently work with Data Engineering 🎲
 
 
 # Technologies I have experience
-<div style="display: inline_block;text-align:center">
+<div style="display: inline_block" align="center" >
   <img alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
@@ -15,7 +15,7 @@ I currently work with Data Engineering 🎲
 </div>
 
 # Learning about
-<div style="display: inline_block;text-align:center">
+<div style="display: inline_block" align="center">
   <img alt="Csharp" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
   <img alt="AWS" height="30" width="40" src="https://icongr.am/devicon/amazonwebservices-original.svg?size=128&color=currentColor">
   <img alt="Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
